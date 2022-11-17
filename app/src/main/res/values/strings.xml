@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Heppy belanja</string>
+    <string name="hallo_boerd">HALLO ! BOERDJANG
+    </string>
+
+    <string name="lasegar_air">Lasegar,Air minum dingin
+</string>
+
+
+
+    <string name="warung_dua">~Warung PINTAR~
+</string>
+
+    <string name="toko_pintar">-Kedai PINTAR-
+</string>
+    <string name="apa_yang_ingin_kamu_minum_hari_ini_agar_tidak_gerah">Apa yang ingin kamu minum hari ini agar tidak gerah ?</string>
+    <string name="terdekat_dengan_kamu">TERDEKAT DENGAN KAMU</string>
+
+    <string name="km">0,5 KM
+</string>
+
+    <string name="jarak">0,7 KM
+</string>
+
+    <string name="kurniawan">~Warung KURNIAWAN~
+</string>
+
+    <string name="ukurann">0,4 KM
+</string>
+
+
+
+
+
+</resources>
